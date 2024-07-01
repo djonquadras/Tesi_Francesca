@@ -1,0 +1,10 @@
+names:
+- '0'
+- '1'
+- '2'
+- '3'
+- '4'
+- '5'
+nc: 6
+train: content/yolov5/grapes-detection-2/train
+val: content/yolov5/grapes-detection-2/valid
